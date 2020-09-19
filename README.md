@@ -3,9 +3,7 @@
 => I have done  Linear Regression with Python Scikit Learn which is a supervised learning model
 => Here we will see how the Python Scikit-Learn library for machine learning can be used to implement regression functions.
 => I have done on simple linear regression involving two variables.
-
-=> In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied .
-=> This task is so simple that it involves just two variables.
+=> In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
 
 # Steps performed
 
