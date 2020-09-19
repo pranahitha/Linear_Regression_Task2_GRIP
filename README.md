@@ -13,23 +13,15 @@
         Pandas 
         Numpy
         matplotlib.pyplot
-        
 2) Reading data from data set
-        Here I used other resources URL to read dataset.
-        
+        Here I used other resources URL to read dataset.      
 3) Plot data on graph for finding linear relationship between Studying Hours and Percentage Score of Student.
-
 4) Then we need to divide the data into "attributes" (inputs) and "labels" (outputs). 
-
-5)Spliting data using Scikit-Learn's built-in train_test_split() method:
+5) Spliting data using Scikit-Learn's built-in train_test_split() method:
         Trainging Set
         Test Set 
-
-6)Train the Algorithm
-
-7)Predict the data in training set through graph for finding correctness.
+6) Train the Algorithm
+7) Predict the data in training set through graph for finding correctness.
         Here I plotted a regression line.
-
-8)Compare Actual with Predicted
-
-9)Evaluate  the model
+8) Compare Actual with Predicted
+9) Evaluate  the model
